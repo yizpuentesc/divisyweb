@@ -5,7 +5,7 @@ Router**, **Bootstrap 5**, animations powered by **AOS**, dynamic
 galleries with **LightGallery**, and deployment optimized for **Firebase
 Hosting**.
 
-This project is part of the official source code of **DIVISY.CO** and is
+This project is part of the official source code of **(https://divisy.co/)** and is
 designed as a fast, lightweight, SEO-optimized landing application.
 
 ------------------------------------------------------------------------
